@@ -1,4 +1,10 @@
-Slack Invite Automation
+Better Slack Invite Automation
+------------
+
+A responsive version of [slack-invite-automation](https://github.com/outsideris/slack-invite-automation) using flexbox.
+
+[Demo](https://wg-auto-invite.herokuapp.com/)
+
 ------------
 
 A tiny web application to invite a user into your Slack team.
@@ -130,4 +136,3 @@ You can use the badge to show status of user in your slack.
 ```
 <img src="https://your.domain/badge.svg">
 ```
-
